@@ -11,7 +11,7 @@
           <h3>Fake Heading</h3>
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              test Edit this page in<code>/pages/about.vue</code>to fit your needs.
             </strong>
           </p>
           <p>
